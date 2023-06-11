@@ -1,0 +1,10 @@
+2.56.119.93:5074:qtenooge:syncclqsof43
+185.199.229.156:7492:qtenooge:syncclqsof43
+185.199.228.220:7300:qtenooge:syncclqsof43
+185.199.231.45:8382:qtenooge:syncclqsof43
+188.74.210.207:6286:qtenooge:syncclqsof43
+188.74.183.10:8279:qtenooge:syncclqsof43
+188.74.210.21:6100:qtenooge:syncclqsof43
+45.155.68.129:8133:qtenooge:syncclqsof43
+154.95.36.199:6893:qtenooge:syncclqsof43
+45.94.47.66:8110:qtenooge:syncclqsof43
